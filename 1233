@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Trang Web Đầu Tiên</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header, footer {
+            background-color: #007bff;
+            color: white;https://github.com/Vanthuong12/thu3/settings
+            padding: 10px 20px;
+            text-align: center;
+        }
+        main {
+            padding: 20px;
+        }
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Chào mừng đến với trang web của tôi!</h1>
+    </header>
+
+    <main>
+        <h2>Giới thiệu</h2>
+        <p>Đây là một trang web HTML cơ bản. Bạn có thể chỉnh sửa nội dung tùy ý.</p>
+
+        <h3>Liên kết hữu ích</h3>
+        <ul>
+            <li><a href="https://www.w3schools.com/html/" target="_blank">Học HTML trên W3Schools</a></li>
+            <li><a href="https://developer.mozilla.org/vi/docs/Web/HTML" target="_blank">Tài liệu MDN Web Docs</a></li>
+        </ul>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Bản quyền thuộc về Bạn</p>
+    </footer>
+
+</body>
+</html>
